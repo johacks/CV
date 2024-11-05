@@ -2,6 +2,18 @@
 
 Hi, I created this repository to give an overview of my most relevant code examples as a demonstration of my programming skills. They are listed here below:
 
+## VSCode Pong
+
+[Link](https://github.com/johacks/vscode-pong)
+
+VSCode extension to play singleplayer/multiplayer pong over P2P connections.
+
+## Pokemon REST
+
+[Link](https://github.com/johacks/pokemon-rest)
+
+NextJS API rest to serve pokemon info.
+
 ## Hybrid Semiparametric Bayesian network classifiers
 
 [Link](https://github.com/johacks/anexoTFM/blob/main/spbn_classifier.py)
