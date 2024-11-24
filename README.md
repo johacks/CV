@@ -25,6 +25,12 @@ Hi, I created this repository to give an overview of my most relevant code examp
 
 ## Personal projects
 
+### Pythonic POSIX Named Semaphores
+
+[Link](https://github.com/johacks/named-semaphores)
+
+Python package that provides a high-level API to POSIX IPC named semaphores.
+
 ### VSCode Pong
 
 [Link](https://github.com/johacks/vscode-pong)
