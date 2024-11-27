@@ -4,12 +4,12 @@ Hi, I created this repository to give an overview of my most relevant code examp
 
 ## Skills
 
-- It says [here](https://github.com/johacks/CV/blob/main/GeneralIntelligenceAssesment.pdf) I am smart. I think I am humble as well, but they did not include that...
 - Team leader
 - Mentor
 - Creative
 - Time management aware
 - Flexible
+- Sharp: [General Intelligence Assesment](https://github.com/johacks/CV/blob/main/GeneralIntelligenceAssesment.pdf)
 
 ## Technical expertise
 - Python
