@@ -23,6 +23,11 @@ Hi, I created this repository to give an overview of my most relevant code examp
 - FastAPI
 - GPU programming / CUDA
 
+## Open Source contributions
+
+- [Keras](https://github.com/keras-team)
+    - [MIDI Music Generation](https://github.com/keras-team/keras-io/pull/1992)
+
 ## Personal projects
 
 ### Pythonic POSIX Named Semaphores
