@@ -26,7 +26,7 @@ Hi, I created this repository to give an overview of my most relevant code examp
 ## Open Source contributions
 
 - [Keras](https://github.com/keras-team)
-    - [MIDI Music Generation](https://github.com/keras-team/keras-io/pull/1992): Add example for generating music using Transformer models trained with MIDI files.
+    - [MIDI Music Generation](https://github.com/keras-team/keras-io/pull/1992): Add example for generating music using Transformer models trained with MIDI files. Check out the [notebook](https://github.com/keras-team/keras-io/blob/master/examples/generative/ipynb/midi_generation_with_transformer.ipynb).
 
 ## Personal projects
 
