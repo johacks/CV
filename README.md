@@ -42,12 +42,6 @@ Python package that provides a high-level API to POSIX IPC named semaphores.
 
 VSCode extension to play singleplayer/multiplayer pong over P2P connections.
 
-### Pokemon REST
-
-[Link](https://github.com/johacks/pokemon-rest)
-
-NextJS API rest to serve pokemon info.
-
 ### Hybrid Semiparametric Bayesian network classifiers
 
 [Link](https://github.com/johacks/anexoTFM/blob/main/spbn_classifier.py)
