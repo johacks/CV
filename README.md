@@ -30,6 +30,12 @@ Hi, I created this repository to give an overview of my most relevant code examp
 
 ## Personal projects
 
+### Combining Keras and Spox
+
+[Link](https://github.com/johacks/kerox)
+
+POC combining Keras 3 and Spox frameworks for consistent definition of training model and ONNX exported model.
+
 ### Pythonic POSIX Named Semaphores
 
 [Link](https://github.com/johacks/named-semaphores)
