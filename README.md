@@ -27,6 +27,7 @@ Hi, I created this repository to give an overview of my most relevant code examp
 
 - [Keras](https://github.com/keras-team)
     - [MIDI Music Generation](https://github.com/keras-team/keras-io/pull/1992): Add example for generating music using Transformer models trained with MIDI files. Check it out [here](https://keras.io/examples/generative/midi_generation_with_transformer/).
+    - [Vocal Track Separation](https://github.com/keras-team/keras-io/pull/2003): Add example for separating vocal track from a song using encoder-decoder architecture. Check it out [here](https://keras.io/examples/audio/vocal_track_separation/).
 
 ## Personal projects
 
